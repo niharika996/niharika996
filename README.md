@@ -1,15 +1,3 @@
-<!-- Profile Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Niharika%20Yamagani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&width=435&lines=Hi+I'm+Niharika!;Computer+Science+Undergrad;Full+Stack+Developer;AI+and+ML+Enthusiast" />
-</p>
-
----
-
 # 👋 Hi there, I'm Niharika!
 
 Welcome to my GitHub! I'm a Computer Science undergraduate passionate about building cool tech that makes life easier, smarter, and sometimes even more fun. 🚀
